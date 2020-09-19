@@ -5,6 +5,7 @@ const FILES_TO_CACHE = [
     '/manifest.webmanifest',
     '/index.js',
     '/db.js',
+    'https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css',
 ];
 
 const CACHE_NAME = "static-cache-v2";
