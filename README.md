@@ -47,4 +47,3 @@ Email: miao188@hotmail.com
 
 
 
-mongodb+srv://miao0007:@clustermiao.txmyc.mongodb.net/budget?retryWrites=true&w=majority
